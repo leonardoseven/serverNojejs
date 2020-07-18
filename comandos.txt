@@ -1,0 +1,4 @@
+npm init
+node index.js
+
+objs: o arquivo que vai iniciar o servidor esta no package.json no atributo main
